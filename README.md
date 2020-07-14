@@ -2,7 +2,7 @@
 
 This is a UI which i developed.
 <br>
-The inspiration for the UI was taken from a post i saw on twitter regarding a similar UI and then i tried to build this one.
+The inspiration for the UI was taken from a post i saw on twitter regarding a similar UI and then i tried to build this one.<br>This is a single page UI
 <br>
 The things which are used in this are:
 * MaterialApp class/design.
@@ -19,6 +19,7 @@ Built using:
 ___
 Some snaps from the UI:
 <br>Watch full video at:- https://youtu.be/7nXUsmZxqrw <br>
+![GIF from the UI](https://media.giphy.com/media/LLZY4KMQI0WgrWz9CR/giphy.gif)<br>
 ![Snap from the app](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594726817/readme%20images/Computer%20selling%20UI%20gridview%20Flutter/WhatsApp_Image_2020-07-14_at_5.02.59_PM_enqwzu.jpg)
 ![Snap from the app](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594726815/readme%20images/Computer%20selling%20UI%20gridview%20Flutter/WhatsApp_Image_2020-07-14_at_5.02.33_PM_d9rvic.jpg)
 ![Snap from the app](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594726813/readme%20images/Computer%20selling%20UI%20gridview%20Flutter/WhatsApp_Image_2020-07-14_at_5.02.33_PM_1_bw9m48.jpg)
