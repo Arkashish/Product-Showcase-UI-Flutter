@@ -2,6 +2,11 @@
 
 This is a UI which i developed.
 <br>
+This UI is a part of a series of UI's i am building. Check other UI's clicking the linke below
+* [Flutter UI 1 Login UI](https://github.com/harshkumarkhatri/Flutter-UI-1-Login-UI)
+* [Flutter UI 2 Product Showcase UI](https://github.com/harshkumarkhatri/Product-Showcase-UI-Flutter)
+
+**About the UI**:-<br>
 The inspiration for the UI was taken from a post i saw on twitter regarding a similar UI and then i tried to build this one.<br>This is a single page UI
 <br>
 The things which are used in this are:
